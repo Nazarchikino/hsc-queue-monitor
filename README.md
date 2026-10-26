@@ -38,7 +38,7 @@
 
 ### 2. Клонування репозиторію
 ```bash
-git clone [https://github.com/your-username/hsc-queue-bot.git](https://github.com/your-username/hsc-queue-bot.git)
+git clone https://github.com/Nazarchikino/hsc-queue-monitor
 cd hsc-queue-bot
 ```
 
